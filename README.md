@@ -1,2 +1,2 @@
-# fair.bets.checker
-Fair Bets checker
+# GameChecker
+Приложение для проверки "честных ставок" популярных игровых сайтов.
